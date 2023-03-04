@@ -1,0 +1,21 @@
+@import url('./main-layout.css');
+@import url('./views/chat-consulta-view.css');
+@import url('./views/about-view.css');
+@import url('./views/listado-view.css');
+@import url('./views/person-form-view.css');
+@import url('./views/collaborative-master-detail-view.css');
+@import url('./views/filtros-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+@import url('@fontsource/cairo');    html {
+      --lumo-size-xl: 3rem;
+      --lumo-size-l: 2.5rem;
+      --lumo-size-m: 2rem;
+      --lumo-size-s: 1.75rem;
+      --lumo-size-xs: 1.5rem;
+--lumo-font-family: Cairo;
+
+    }
+
+    [theme~="dark"] {
+
+    }
